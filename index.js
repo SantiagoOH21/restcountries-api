@@ -67,4 +67,4 @@ regionSelector.addEventListener("change", function () {
   searchRegion(regionSelected);
 });
 
-//region = [Asia,Europe,Africa,Oceania,Americas,Antarctic]
+//region = [Asia,Europe,Africa,Oceania,America,Antarctic]
